@@ -1,0 +1,20 @@
+{
+  "name": "mongo_hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "rashtell",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "mongo": "^0.1.0",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
